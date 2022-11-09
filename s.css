@@ -47,14 +47,14 @@
 }
 .navbar ul li:hover::after{
     width: 100%;
-}
+}*/
 .content{
     width: 100%;
     position: absolute;
     top:80%;transform: translateY(-20%);
     text-align: center;
     color: #fff;
-} */
+} 
 .content h1{
     font-size: 70px;
     margin-top: 80px;
